@@ -16,7 +16,8 @@ ________________________________________________________________________________
 # Repository content
 
 The repository consist of:
-Player design (VHDL-project)
-Player waveform (files that are needed to be placed with the Player design folder)
-Player specifications in Ukranian and English
+Control Device C (STM32F103C8T6) project
+Project specification in Ukrainian
+Presentation notes in English
+Demo Video. The prototype work demonstration
 ____________________________________________________________________________________________________________________________________________
